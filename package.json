@@ -1,0 +1,15 @@
+{
+  "name": "algorand-bip39",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@scure/bip39": "^1.2.2",
+    "bip39": "^3.1.0"
+  }
+}
